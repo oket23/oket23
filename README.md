@@ -21,7 +21,7 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oket23&show_icons=true&locale=en&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oket23&layout=compact&theme=tokyonight)  
 
 ## Contact Me
 
